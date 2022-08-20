@@ -1,0 +1,7 @@
+.idea/
+venv/
+token/
+*.env
+requirements.txt
+.ipynb_checkpoints/
+
