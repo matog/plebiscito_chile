@@ -6,3 +6,4 @@ token/
 requirements.txt
 .ipynb_checkpoints/
 *.csv
+*.xlsx
