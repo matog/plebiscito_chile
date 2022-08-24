@@ -5,4 +5,4 @@ token/
 *.env2
 requirements.txt
 .ipynb_checkpoints/
-
+*.csv
